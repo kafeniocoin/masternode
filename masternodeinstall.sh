@@ -57,7 +57,7 @@ then
   
   mkdir -p $CONF_DIR
   cd $CONF_DIR
-  wget http://download.kafeniocoin.com/kfn.zip
+  wget https://download.kafeniocoin.com/kfn.zip
   unzip kfn.zip
   rm kfn.zip
 
